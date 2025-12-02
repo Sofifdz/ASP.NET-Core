@@ -24,7 +24,7 @@ Instrucciones para ejecutar el proyecto
     Accede a la aplicación en -> http://localhost:5000 
 
 Tecnologías utilizadas 
-• ASP.NET Core 7.0 
-• Entity Framework Core 
-• SQL Server 
-• Bootstrap para diseño responsivo 
+  • ASP.NET Core 7.0 
+  • Entity Framework Core 
+  • SQL Server 
+  • Bootstrap para diseño responsivo 
