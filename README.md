@@ -32,3 +32,9 @@ Tecnologías utilizadas
   • SQL Server 
   
   • Bootstrap para diseño responsivo 
+
+Credenciales de prueba 
+
+• Usuario: prueba@gmail.com
+
+• Contraseña: Prueba01.
