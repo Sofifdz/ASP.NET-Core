@@ -21,7 +21,7 @@ Instrucciones para ejecutar el proyecto
     • Ejecuta las migraciones-> dotnet ef database update 
   4. Ejecutar la aplicación 
     dotnet run 
-    Accede a la aplicación en -> http://localhost:5000 
+    Accede a la aplicación en -> https://localhost:7236
 
 Tecnologías utilizadas 
 
