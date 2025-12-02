@@ -5,12 +5,14 @@ donde se implementa una aplicación web completa utilizando el patrón Modelo-Vi
 Controlador (MVC). 
 ##      
 Características principales - Aplicación web construida con ASP.NET Core MVC. 
+
   - Autenticación de usuarios (cada usuario accede a su cuenta)
   - Gestión de listas de tareas personalizadas por usuario
-  - Funcionalidades CRUD: - Crear nuevas tareas
-  - Leer y visualizar tareas
-  - Actualizar tareas existentes
-  - Eliminar tareas
+  - Funcionalidades CRUD:
+    - Crear nuevas tareas
+    - Leer y visualizar tareas
+    - Actualizar tareas existentes
+    - Eliminar tareas
   - Filtrado por prioridad y orden para organizar las tareas. 
 ##         
 Instrucciones para ejecutar el proyecto 
@@ -22,7 +24,7 @@ Instrucciones para ejecutar el proyecto
   4. Ejecutar la aplicación 
     dotnet run 
     Accede a la aplicación en -> https://localhost:7236
-
+## 
 Tecnologías utilizadas 
 
   • ASP.NET Core 7.0 
@@ -32,7 +34,7 @@ Tecnologías utilizadas
   • SQL Server 
   
   • Bootstrap para diseño responsivo 
-
+## 
 Credenciales de prueba 
 
 • Usuario: prueba@gmail.com
