@@ -25,6 +25,9 @@ Instrucciones para ejecutar el proyecto
 
 Tecnologías utilizadas 
   • ASP.NET Core 7.0 
+  
   • Entity Framework Core 
+  
   • SQL Server 
+  
   • Bootstrap para diseño responsivo 
